@@ -1,0 +1,8 @@
+.env
+*.env
+*.pem
+*.ppk
+__pycache__/
+node_modules/
+data/
+volumes/
